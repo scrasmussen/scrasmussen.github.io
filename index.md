@@ -1,4 +1,4 @@
-# Alpha Version
+# Soren Rasmussen: alpha version
 I am a Computer Science PhD Candidate at Cranfield University in the United
   Kingdom.
 My background is in computational mathematics and compilers.
