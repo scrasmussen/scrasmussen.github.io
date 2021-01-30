@@ -1,4 +1,4 @@
-[Alpha Version of Website] status: busy with research
+__[Alpha Version]__ status: busy with research
 
 I am a PhD Candidate studying Computer Science, with an emphasis in High
   Performance Computing (HPC), at Cranfield University in the United Kingdom.
@@ -9,9 +9,7 @@ My current research focuses on compilers, PGAS and MPI communication and I am
 
 # Personal Coding Projects
 * [icheckmovies-streaming](https://github.com/scrasmussen/icheckmovies-streaming)
-  lets the user choose a movie list, such as IMDB's top 50 thriller movies, and
-  prints movies on the list.
-	Which eventually report where they are available to stream.
+  prints movie lists, such as IMDB's top 50 thriller movies.
 * [Spoiler-free UFC](https://github.com/scrasmussen/spoiler-free-UFC) lists
   UFC events and lists the schedules of boxers and MMA fighters.
 * [Fantasy Formula 1](https://github.com/scrasmussen/Formula1-2018) dataset and
