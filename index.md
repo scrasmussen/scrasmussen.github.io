@@ -5,11 +5,15 @@ My background is in computational mathematics and compilers.
 My current research focuses on compilers, PGAS and MPI communication and I am
   interested in helping people run code on GPUs.
 
-# Personal Projects
+# Coding Projects
 * [Fantasy Formula 1](https://github.com/scrasmussen/Formula1-2018) dataset and
   formula for picking the best team.
 * [Spoiler-free UFC](https://github.com/scrasmussen/spoiler-free-UFC) lists
   UFC events and lists the schedules of boxers and MMA fighters.
+
+# Lists
+* [Movies](https://www.icheckmovies.com/profiles/artless/) watched
+* [Books](https://www.goodreads.com/user/show/5472160-soren-rasmussen) read
 
 
 ### To Add
