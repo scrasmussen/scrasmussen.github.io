@@ -1,22 +1,6 @@
-I am a PhD Candidate studying Computer Science, with an emphasis in High
-  Performance Computing (HPC), at Cranfield University in the United Kingdom.
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-My background is in computational mathematics and compilers.
-My current research focuses on compilers, PGAS and MPI communication and I am
-  interested in helping people run code on GPUs.
-
-# Coding Projects
-* [Fantasy Formula 1](https://github.com/scrasmussen/Formula1-2018) dataset and
-  formula for picking the best team.
-* [Spoiler-free UFC](https://github.com/scrasmussen/spoiler-free-UFC) lists
-  UFC events and lists the schedules of boxers and MMA fighters.
-
-# Lists
-* [Movies](https://www.icheckmovies.com/profiles/artless/) watched
-* [Books](https://www.goodreads.com/user/show/5472160-soren-rasmussen) read
-
-
-
-<!-- ### To Add  -->
-<!-- * CV  -->
-<!-- * icheckmovies' list scraper and Netflix library comparison, etc.  -->
+layout: home
+---
