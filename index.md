@@ -16,6 +16,7 @@ My current research focuses on compilers, PGAS and MPI communication and I am
 * [Books](https://www.goodreads.com/user/show/5472160-soren-rasmussen) read
 
 
-### To Add
-* CV
-* icheckmovies' list scraper and Netflix library comparison, etc.
+
+<!-- ### To Add  -->
+<!-- * CV  -->
+<!-- * icheckmovies' list scraper and Netflix library comparison, etc.  -->
