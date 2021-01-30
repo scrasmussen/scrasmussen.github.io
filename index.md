@@ -8,6 +8,10 @@ My current research focuses on compilers, PGAS and MPI communication and I am
   interested in helping people run code on GPUs.
 
 # Personal Coding Projects
+* [icheckmovies-streaming](https://github.com/scrasmussen/icheckmovies-streaming)
+  lets the user choose a movie list, such as IMDB's top 50 thriller movies, and
+  prints movies on the list.
+	Which eventually report where they are available to stream.
 * [Spoiler-free UFC](https://github.com/scrasmussen/spoiler-free-UFC) lists
   UFC events and lists the schedules of boxers and MMA fighters.
 * [Fantasy Formula 1](https://github.com/scrasmussen/Formula1-2018) dataset and
