@@ -1,4 +1,3 @@
-# Soren Rasmussen: alpha version
 I am a PhD Candidate studying Computer Science, with an emphasis in High
   Performance Computing (HPC), at Cranfield University in the United Kingdom.
 
