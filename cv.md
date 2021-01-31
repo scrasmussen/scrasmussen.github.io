@@ -39,3 +39,14 @@ Anticipated defense, April 2021. Cranfield University
  - Kulyukin, V., Andhavarapu S., Oliver M., Heaps C., __Rasmussen, S.__ , Rawlins, W. (2015). Exploring Finite State Automata with Junan Robots: A Case Study in Computability Theory. International Conference Frontiers in Education: CS and CE
 
  - __Rasmussen, S.__ (April 2009) Heidegger and John Paul II on Technology and Labor. The Languages, Philosophy, and Speech Communication Student Symposium at Utah State University
+
+# Posters
+ - __Rasmussen, S.__, Filippone, S., & Moulitsas, I. (June 2019). Performance Analysis of MPI 4.0 Persistent Communication within a Sparse Linear Algebra Library. Cranfield Aerospace Research Student Conference 2018
+
+ - __Rasmussen, S.__, Schulz, M., & Mohror, K. (Aug 2016). Automatic Generation of MPI Tool Wrappers for Fortran and C Interoperability. MVAPICH User Group (MUG) Meeting
+
+ - __Rasmussen, S.__, Schulz, M., & Mohror, K. (Aug 2015). C and Fortran Wrappers for MPI Profiling Incompatibility. Student Poster Symposium. Lawrence Livermore National Lab
+
+ - __Rasmussen, S.__ , Rasmussen, C., Anghel, M., & Kenyon, G. (Feb 2011). Interneuron-Mediated Feedback Inhibition Improves the Stability, Selectivity, and Coverage of Model Receptive Fields Learned via STDP. Grand Challenges in Neural Computation II: Synthetic Cognition and Neuromimetic Processing
+
+ - Anghel, M., Rasmussen, C., __Rasmussen, S.__ & Kenyon, G. (Feb 2011). Information Maximization of STDP Learning Through Parameter Optimization and Homeostatic Control. Grand Challenges in Neural Computation II: Synthetic Cognition and Neuromimetic Processing
