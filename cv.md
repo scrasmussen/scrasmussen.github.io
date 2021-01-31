@@ -1,4 +1,5 @@
-# Education
+# Brief Curriculum Vitae
+## Education
 
  - Computer Science Ph.D., emphasis High Performance Computing.
 Anticipated defense, April 2021. Cranfield University
@@ -11,7 +12,7 @@ Anticipated defense, April 2021. Cranfield University
  - International Studies B.A., Utah State University
    - Philosophy minor
 
-# Work Experience
+## Work Experience
 
  - Software Engineer Internship, Lawrence Livermore National Lab. Three months in 2019
 
@@ -26,10 +27,10 @@ Anticipated defense, April 2021. Cranfield University
  - Computational Neuroscience Research Assistant, New Mexico Consortium, 2010-2011
 
 
-# Fellowship
+## Fellowship
  - Sourcery Institute, 2017-2021
 
-# Papers
+## Papers
  - Submitted: __Rasmussen, S.__ , Gutmann, E. D., Moulitsas, I, Filippone, S.. (Jan 2021) Fortran Coarray Implementation of Semi-Lagrangian Convected Air Particles within an Atmospheric Model. ​ChemEngineering.​ 2021.
 
  - __Rasmussen, S.__ , Gutmann, E. D., Friesen, B., Rouson, D., Filippone, S., Moulitsas, I. (Nov 2018) Development and performance comparison of MPI and Fortran Coarrays within an atmospheric research model. Extended Abstract. Parallel Applications Workshop, Alternatives to MPI at Supercomputing 2018.
@@ -44,7 +45,7 @@ Anticipated defense, April 2021. Cranfield University
 
  - __Rasmussen, S.__ (April 2009) Heidegger and John Paul II on Technology and Labor. The Languages, Philosophy, and Speech Communication Student Symposium at Utah State University
 
-# Posters
+## Posters
  - __Rasmussen, S.__, Filippone, S., & Moulitsas, I. (June 2019). Performance Analysis of MPI 4.0 Persistent Communication within a Sparse Linear Algebra Library. Cranfield Aerospace Research Student Conference 2018
 
  - __Rasmussen, S.__, Schulz, M., & Mohror, K. (Aug 2016). Automatic Generation of MPI Tool Wrappers for Fortran and C Interoperability. MVAPICH User Group (MUG) Meeting

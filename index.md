@@ -3,9 +3,22 @@ __[Alpha Version]__ status: busy with research
 I am a PhD Candidate studying Computer Science, with an emphasis in High
   Performance Computing (HPC), at Cranfield University in the United Kingdom.
 
-My background is in computational mathematics and compilers.
-My current research focuses on compilers, PGAS and MPI communication and I am
-  interested in helping people run code on GPUs.
+My background has involved computational mathematics, compilers, performance
+  tools and MPI.
+Here is my [linkedIn
+  profile](https://www.linkedin.com/in/soren-rasmussen-96a50a89/) and a
+  [brief CV](cv.md)
+
+# Coding Skills
+* __Programming/Scripting Languages__
+  * C, C++, Fortran, Python, Bash, functional language Stratego/XT, Julia, OpenCL, R, AWK, DOT, Powershell
+* __Frameworks, APIs, Tools and Packages__
+  * Parallel Programming
+    * MPI, PGAS Fortran Coarrays, Fortran Do Concurrent, OpenMP, CUDA, OpenACC
+  * TAU profiling and performance tools, PBS job scheduler
+* __Efficiency__
+  * Unix, Emacs, CMake, Make, Git, Tmux, Vimium, GDB
+
 
 # Personal Coding Projects
 * [Spoiler-free UFC](https://github.com/scrasmussen/spoiler-free-UFC) lists
