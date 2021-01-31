@@ -7,7 +7,7 @@ My background has involved computational mathematics, compilers, performance
   tools and MPI.
 Here is my [linkedIn
   profile](https://www.linkedin.com/in/soren-rasmussen-96a50a89/) and a
-  [brief CV](cv.md)
+  [brief CV](cv.md).
 
 # Coding Skills
 * __Programming/Scripting Languages__
