@@ -26,11 +26,11 @@ Anticipated defense, April 2021. Cranfield University
  - Sourcery Institute, 2017-2021
 
 # Papers
- - Submitted: __Rasmussen, S._​ , Gutmann, E. D., Moulitsas, I, Filippone, S.. (Jan 2021) Fortran Coarray Implementation of Semi-Lagrangian Convected Air Particles within an Atmospheric Model. ​ChemEngineering.​ 2021.
+ - Submitted: __Rasmussen, S.__ , Gutmann, E. D., Moulitsas, I, Filippone, S.. (Jan 2021) Fortran Coarray Implementation of Semi-Lagrangian Convected Air Particles within an Atmospheric Model. ​ChemEngineering.​ 2021.
 
- - __Rasmussen, S._​ , Gutmann, E. D., Friesen, B., Rouson, D., Filippone, S., Moulitsas, I. (Nov 2018) Development and performance comparison of MPI and Fortran Coarrays within an atmospheric research model. Extended Abstract. Parallel Applications Workshop, Alternatives to MPI at Supercomputing 2018.
+ - __Rasmussen, S.__ , Gutmann, E. D., Friesen, B., Rouson, D., Filippone, S., Moulitsas, I. (Nov 2018) Development and performance comparison of MPI and Fortran Coarrays within an atmospheric research model. Extended Abstract. Parallel Applications Workshop, Alternatives to MPI at Supercomputing 2018.
 
- - __Rasmussen, S.,_​ Schulz, M., & Mohror, K. (Sept 2016). Allowing MPI tool builders to forget about Fortran. EuroMPI: The MPI Users and Developers Conference
+ - __Rasmussen, S.,__ Schulz, M., & Mohror, K. (Sept 2016). Allowing MPI tool builders to forget about Fortran. EuroMPI: The MPI Users and Developers Conference
 
  - Malony, A.D., McCumsey, S., Byrnes, J., Rasmussen, C., __Rasmussen, S.__ , Keever, E. & Toomey, D. (June 2016). A Data Parallel Algorithm for Seismic Raytracing. 12th International Meeting on High Performance Computing for Computational Science
 
