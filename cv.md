@@ -13,9 +13,13 @@ Anticipated defense, April 2021. Cranfield University
 
 # Work Experience
 
- - Software Engineer Internships, Lawrence Livermore National Lab. Three months in 2015, 2017, and 2019
+ - Software Engineer Internship, Lawrence Livermore National Lab. Three months in 2019
+
+ - Software Engineer Internship, Lawrence Livermore National Lab. Three months in 2017
 
  - Software Developer, Performance Research Lab, University of Oregon. 2015-2016
+
+ - Software Engineer Internship, Lawrence Livermore National Lab. Three months in 2015
 
  - Software Developer Internship, University of Oregon. Three months in 2014
 
