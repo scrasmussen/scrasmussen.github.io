@@ -21,7 +21,9 @@ My current research focuses on compilers, PGAS and MPI communication and I am
 
 # Coding Challenges
 * Project Euler
+
 ![project_euler](https://projecteuler.net/profile/Artless.png)
 
 * The Unix Game: 100%
+
 ![unix_challenge](https://raw.githubusercontent.com/scrasmussen/scrasmussen.github.io/master/images/UNIX_badge.png?token=ABL364XQXVEALKMDM5LKYRTAD43TE)
