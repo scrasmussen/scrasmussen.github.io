@@ -11,11 +11,12 @@ Here is my [linkedIn
 
 # Coding Skills
 * __Programming/Scripting Languages__
-  * C, C++, Fortran, Python, Bash, functional language Stratego/XT, Julia, OpenCL, R, AWK, DOT, Powershell
+  * C, C++, Fortran, Python, Bash, functional language Stratego/XT, Julia, AWK, DOT, Powershell
 * __Frameworks, APIs, Tools and Packages__
   * Parallel Programming
     * MPI, PGAS Fortran Coarrays, Fortran Do Concurrent, OpenMP, CUDA, OpenACC
   * TAU profiling and performance tools, PBS job scheduler
+  * Data analysis library Pandas and web scraper Beautiful Soup
 * __Efficiency__
   * Unix, Emacs, CMake, Make, Git, Tmux, Vimium, GDB
 
