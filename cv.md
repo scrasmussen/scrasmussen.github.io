@@ -31,7 +31,7 @@ Anticipated defense, April 2021. Cranfield University
  - Sourcery Institute, 2017-2021
 
 ## Papers
- - Submitted: __Rasmussen, S.__ , Gutmann, E. D., Moulitsas, I, Filippone, S.. (Jan 2021) Fortran Coarray Implementation of Semi-Lagrangian Convected Air Particles within an Atmospheric Model. ​ChemEngineering.​ 2021.
+ - __Under Review__: __Rasmussen, S.__ , Gutmann, E. D., Moulitsas, I, Filippone, S.. (Jan 2021) Fortran Coarray Implementation of Semi-Lagrangian Convected Air Particles within an Atmospheric Model. ​ChemEngineering.​ 2021.
 
  - __Rasmussen, S.__ , Gutmann, E. D., Friesen, B., Rouson, D., Filippone, S., Moulitsas, I. (Nov 2018) Development and performance comparison of MPI and Fortran Coarrays within an atmospheric research model. Extended Abstract. Parallel Applications Workshop, Alternatives to MPI at Supercomputing 2018.
 
