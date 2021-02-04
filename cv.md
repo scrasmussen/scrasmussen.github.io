@@ -1,7 +1,7 @@
 # Brief Curriculum Vitae
 ## Education
 
- - Computer Science Ph.D., emphasis High Performance Computing.
+ - Computer Science PhD, emphasis High Performance Computing.
 Anticipated defense, April 2021. Cranfield University
 
  - Computer Science Masters, 27 of 54 credits completed, left for PhD. University of Oregon
