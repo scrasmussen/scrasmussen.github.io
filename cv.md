@@ -4,7 +4,7 @@
  - Computer Science Ph.D., emphasis High Performance Computing.
 Anticipated defense, April 2021. Cranfield University
 
- - Computer Science Masters, 27 of 54 credits completed. University of Oregon
+ - Computer Science Masters, 27 of 54 credits completed, left for PhD. University of Oregon
 
  - Mathematics B.S., Computational Mathematics emphasis. Utah State University
    - Computer Science minor
