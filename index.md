@@ -44,4 +44,4 @@ Here is my [linkedIn
 
 * The Unix Game: 100%
 
-![unix_challenge](https://raw.githubusercontent.com/scrasmussen/scrasmussen.github.io/1f32af086366beef83d5487f8920a6617ab96a5e/images/UNIX_badge.png?token=ABL364R2H6F4NUCCSHK7SATAGABTE)
+![unix_challenge](https://github.com/scrasmussen/scrasmussen.github.io/raw/master/images/UNIX_badge.png)
