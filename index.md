@@ -20,11 +20,15 @@ Here is my [linkedIn
 * __Efficiency__
   * Unix, Emacs, CMake, Make, Git, Tmux, Vimium, GDB
 
+# Professional Coding Projects
+* [Convected Air Parcels](https://github.com/scrasmussen/coarray_icar/releases/latest)
+  added convected semi-Lagrangian air particles to coarray ICAR
+* More to be added soon
 
 # Personal Coding Projects
 * [Spoiler-free UFC](https://github.com/scrasmussen/spoiler-free-UFC) lists
   UFC events and lists the schedules of boxers and MMA fighters
-* [icheckmovies streaming](https://github.com/scrasmussen/icheckmovies-streaming):
+* [icheckmovies streaming](https://github.com/scrasmussen/icheckmovies-streaming)
   print movie lists, such as IMDB's top 50 thriller movies
 * [Fantasy Formula 1](https://github.com/scrasmussen/Formula1-2018) dataset and
   formula for picking the best team
