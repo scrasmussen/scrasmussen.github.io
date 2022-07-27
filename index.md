@@ -1,8 +1,7 @@
-__[Alpha Version]__ status: busy with research
+__[Beta Version]__ status: busy with research
 
-I am a PhD Candidate studying Computer Science, with an emphasis in High
-  Performance Computing (HPC), at Cranfield University in the United Kingdom
-
+I have a PhD in Computer Science, with an emphasis in High
+  Performance Computing (HPC).
 My background has involved computational mathematics, compilers, performance
   tools and MPI.
 Here is my [linkedIn
