@@ -1,0 +1,50 @@
+{
+    "multiscales": [
+        {
+            "datasets": [
+                {
+                    "crs": "EPSG:3857",
+                    "path": "0",
+                    "pixels_per_tile": 128
+                },
+                {
+                    "crs": "EPSG:3857",
+                    "path": "1",
+                    "pixels_per_tile": 128
+                },
+                {
+                    "crs": "EPSG:3857",
+                    "path": "2",
+                    "pixels_per_tile": 128
+                },
+                {
+                    "crs": "EPSG:3857",
+                    "path": "3",
+                    "pixels_per_tile": 128
+                },
+                {
+                    "crs": "EPSG:3857",
+                    "path": "4",
+                    "pixels_per_tile": 128
+                },
+                {
+                    "crs": "EPSG:3857",
+                    "path": "5",
+                    "pixels_per_tile": 128
+                }
+            ],
+            "metadata": {
+                "args": [],
+                "kwargs": {
+                    "levels": 6,
+                    "pixels_per_tile": 128
+                },
+                "method": "pyramid_reproject",
+                "version": "0.1.0"
+            },
+            "type": "reduce"
+        }
+    ],
+    "title": "multiscale data pyramid",
+    "version": "0.1.0"
+}

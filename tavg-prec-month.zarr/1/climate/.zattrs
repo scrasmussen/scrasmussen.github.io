@@ -1,0 +1,14 @@
+{
+    "AREA_OR_POINT": "Area",
+    "STATISTICS_MAXIMUM": 34.099998474121,
+    "STATISTICS_MEAN": NaN,
+    "STATISTICS_MINIMUM": -46.095998535156,
+    "STATISTICS_STDDEV": NaN,
+    "_ARRAY_DIMENSIONS": [
+        "band",
+        "month",
+        "y",
+        "x"
+    ],
+    "coordinates": "spatial_ref"
+}
