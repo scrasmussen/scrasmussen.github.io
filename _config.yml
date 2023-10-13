@@ -1,2 +1,8 @@
 title: a_personal_website
 theme: jekyll-theme-hacker
+
+include:
+ - 4d-ndp0.1.zarr
+ - .zattrs
+ - .zgroup
+ - .zmetadata
