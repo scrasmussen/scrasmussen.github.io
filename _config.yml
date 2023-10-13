@@ -2,7 +2,7 @@ title: a_personal_website
 theme: jekyll-theme-hacker
 
 include:
- - 4d-ndp0.1.zarr
+ - tavg-prec-month.zarr
  - .zattrs
  - .zgroup
  - .zmetadata
