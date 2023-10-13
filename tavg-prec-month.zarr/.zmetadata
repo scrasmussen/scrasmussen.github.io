@@ -105,9 +105,9 @@
         "0/climate/.zattrs": {
             "AREA_OR_POINT": "Area",
             "STATISTICS_MAXIMUM": 34.099998474121,
-            "STATISTICS_MEAN": NaN,
+            "STATISTICS_MEAN": 0.0,
             "STATISTICS_MINIMUM": -46.095998535156,
-            "STATISTICS_STDDEV": NaN,
+            "STATISTICS_STDDEV": 0.0,
             "_ARRAY_DIMENSIONS": [
                 "band",
                 "month",
@@ -411,9 +411,9 @@
         "2/climate/.zattrs": {
             "AREA_OR_POINT": "Area",
             "STATISTICS_MAXIMUM": 34.099998474121,
-            "STATISTICS_MEAN": NaN,
+            "STATISTICS_MEAN": null,
             "STATISTICS_MINIMUM": -46.095998535156,
-            "STATISTICS_STDDEV": NaN,
+            "STATISTICS_STDDEV": null,
             "_ARRAY_DIMENSIONS": [
                 "band",
                 "month",
